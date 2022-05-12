@@ -1,6 +1,13 @@
 ### Hi there 👋
 
 ![banner image](image/name.png)
+
+<div class="button-group minor-group">
+    <a href="#" class="button primary">Dashboard</a>
+    <a href="#" class="button">Inbox</a>
+    <a href="#" class="button">Account</a>
+    <a href="#" class="button">Logout</a>
+</div>
 <!--
 **calvinabensonjr/calvinabensonjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
