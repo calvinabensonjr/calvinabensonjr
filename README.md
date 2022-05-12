@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![banner image](images/name.png)
+![banner image](image/name.png)
 <!--
 **calvinabensonjr/calvinabensonjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
