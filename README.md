@@ -2,12 +2,12 @@
 
 ![banner image](image/name.png)
 
-<div class="button-group minor-group">
+<section class="button-group minor-group">
     <a href="#" class="button primary">Dashboard</a>
     <a href="#" class="button">Inbox</a>
     <a href="#" class="button">Account</a>
     <a href="#" class="button">Logout</a>
-</div>
+<section>
 <a href="#" class="button big">Create Project</a>
 <a href="#" class="button icon search">Search</a>
 <!--
