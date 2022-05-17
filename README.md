@@ -2,6 +2,7 @@
 
 ![banner image](image/name.png)
 
+<!--
 <section class="button-group minor-group">
     <a href="#" class="button primary">Dashboard</a>
     <a href="#" class="button">Inbox</a>
