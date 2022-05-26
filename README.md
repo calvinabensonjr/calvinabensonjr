@@ -2,7 +2,7 @@
 
 ![banner image](image/name.png)
 
-<h1 align="center">Hi 👋, I'm Calvin</h1>
+<!-- <h1 align="center">Hi 👋, I'm Calvin</h1> -->
 <h3 align="center">A Fullstack Developer</h3>
 
 <!-- 🔭 I’m currently working on **studenA** -->
