@@ -7,7 +7,7 @@
 
 <!-- 🔭 I’m currently working on **studenA** -->
 
-- 👨‍💻 All of my projects are available at [https://calvinbenson.netlify.app/](https://calvinbenson.netlify.app/)
+<!-- 👨‍💻 All of my projects are available at [https://calvinbenson.netlify.app/](https://calvinbenson.netlify.app/) -->
 
 - 📫 How to reach me **calvinbensonjr@gmail.com**
 
