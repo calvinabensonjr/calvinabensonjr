@@ -1,15 +1,22 @@
 
 
 ![banner image](image/name.png)
-
+<section align="center" class="button-group minor-group">
+    <a href="https://www.linkedin.com/in/calvinabensonjr/" class="button primary">LinkedIn</a>
+    <a href="https://twitter.com/CalvinABensonJr" class="button">Twitter</a>
+    <a href="https://calvinbenson.netlify.app/" class="button">Website</a>
+    <a href="https://angel.co/u/calvinabensonjr" class="button">AngelList</a>
+<section>
+<!-- <a href="#" class="button big">Create Project</a> -->
+<!-- <a href="#" class="button icon search">Search</a> -->
 <!-- <h1 align="center">Hi 👋, I'm Calvin</h1> -->
-<h3 align="center">A Fullstack Developer</h3>
+<!-- <h3 align="center">A Fullstack Developer</h3> -->
 
 <!-- 🔭 I’m currently working on **studenA** -->
 
 <!-- 👨‍💻 All of my projects are available at [https://calvinbenson.netlify.app/](https://calvinbenson.netlify.app/) -->
 
-- 📫 How to reach me **calvinbensonjr@gmail.com**
+<!-- 📫 How to reach me **calvinbensonjr@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
