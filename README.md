@@ -9,8 +9,7 @@
 <section>
 <!-- <a href="#" class="button big">Create Project</a> -->
 <!-- <a href="#" class="button icon search">Search</a> -->
-<!-- <h1 align="center">Hi 👋, I'm Calvin</h1> -->
-<!-- <h3 align="center">A Fullstack Developer</h3> -->
+
 
 <!-- 🔭 I’m currently working on **studenA** -->
 
